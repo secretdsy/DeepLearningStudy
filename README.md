@@ -1,2 +1,2 @@
 # DeepLearningStudy
-DeepLearning, Signal Processing, etc.
+DeepLearning, Signal Processing
